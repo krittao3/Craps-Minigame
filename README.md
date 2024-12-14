@@ -47,12 +47,12 @@ git clone https://github.com/yourusername/luxury-craps.git
 2. Install dependencies:
 ```bash
 cd luxury-craps
-npm install
+bun install
 ```
 
 3. Start the development server:
 ```bash
-npm run dev
+bun dev
 ```
 
 4. Open your browser and navigate to `http://localhost:5173`
